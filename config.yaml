@@ -1,0 +1,7 @@
+Static:
+  EpisodeLocation: "./static/episodes"
+  Favicon: "./static/favicon/favicon.ico"
+  Images: "./static/images"
+RSS:
+  SearchFolder: "./podcast"
+  PodcastFilename: "podcast.yaml"

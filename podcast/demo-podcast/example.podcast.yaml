@@ -1,0 +1,66 @@
+Show: 
+  Recommended: 
+    Author: "Doe Company LLC"
+    HostURL: "https://www.example.com/rss.xml"
+    Owner: 
+      Email: John.Doe@gmail.com
+      Name: "John Doe"
+    Website: "https://www.example.com/"
+  Required: 
+    Categories: 
+      - Category: Science
+        Subcategory: Nature
+      - Category: Science
+        Subcategory: "Life Sciences"
+      - Category: Science
+    Description: "This is a Demo podcast I use to rant about the world"
+    Explicit: "no"
+    Image: "https://www.wallpapertip.com/wmimgs/78-782499_beautiful-waterfall-hd-wallpaper-nature-wallpapers-beautiful-waterfall.jpg"
+    Language: en-us
+    Title: "Demo Podcast"
+  Situational: 
+    Block: "no"
+    Copyright: "&#169; 2020 John Appleseed"
+    NewURLFeed: ""
+    Type: "episodic"
+Website: 
+  URL: demo-podcast
+Episodes: 
+  - Recommended: 
+      Description: "Talking about how we can save the rainforest"
+      Duration: 3651
+      Explicit: "no"
+      GUID: "bd3afbc0-2df7-4e3c-b7f6-2196aca72d3c"
+      Image: "https://www.wallpapertip.com/wmimgs/78-782499_beautiful-waterfall-hd-wallpaper-nature-wallpapers-beautiful-waterfall.jpg"
+      Link: "http://www.mypodcast.com/episode-one.html/"
+      PublishDate: "Wed, 27 Jan 2021 19:00:00 GMT"
+    Required: 
+      Enclosure: 
+        Length: "5650889"
+        Type: "audio/mpeg"
+        URL: "http://mypodcast.com/episode001.mp3" 
+      Title: "Save the Rainforest"
+    Situational: 
+      Block: "no"
+      EpisodeNumber: 1
+      EpisodeType: "full"
+      Season: 1
+  - Recommended: 
+      Description: "Talking about how we can save the Ocean"
+      Duration: 3625
+      Explicit: "no"
+      GUID: "bd3afbc0-2df7-4e3c-b7f6-2196acb72d3c"
+      Image: "https://www.wallpapertip.com/wmimgs/78-782499_beautiful-waterfall-hd-wallpaper-nature-wallpapers-beautiful-waterfall.jpg"
+      Link: "http://www.mypodcast.com/episode-one.html"
+      PublishDate: "Wed, 3 Feb 2021 19:00:00 GMT"
+    Required: 
+      Enclosure: 
+        Length: "5652889"
+        Type: "audio/mpeg"
+        URL: "http://mypodcast.com/episode002.mp3" 
+      Title: "Save the Ocean"
+    Situational: 
+      Block: "no"
+      EpisodeNumber: 2
+      EpisodeType: "full"
+      Season: 1
